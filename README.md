@@ -1,7 +1,5 @@
-* 🔭  I’m Eduardo da Silva
-* 🌱  I’m currently working at bol.com as Principal Tech Lead (& Sociotechnical Architect)
-* 👯  (15+ years) I’ve been Academic Researcher > Startup Founder/CTO/CEO > Software Engineer & Architect in 5+ companies
-* 🤔  I’m writing* on https://esilva.net on different topics, from Software Architecture, Technical Leadership and in particular Sociotechnical Architecture
-  * \*also doing small/side advising/consulting/talks on these topics (ping me if you think we can collaborate)   
-* 📫  How to reach me: https://esilva.net | https://twitter.com/emgsilva (DMs open)
+* 🌱  **Independent Consultant** on topics in the area of **sustainable evolution of tech-enabled organizations** (especially **co-evolution of teams and their technical systems** - driven by customer and business goals)
+* 👯  (17+ years) I’ve been Academic Researcher > Startup Founder/CTO/CEO > Software Engineer / Architect / Principal Tech Lead in 5+ companies (incl. 5 years as Principal Tech Lead at bol.com - biggest online retailer of NL and BE, 150+ product teams)
+* 🤔  I speak and often write (https://esilva.net) on different topics, from Software Architecture, Technical Leadership and in particular sustainable Sociotechnical Systems Evolution (core topic of my consulting services)
+* 📫  How to reach me: https://esilva.net | https://twitter.com/emgsilva (DMs open) | eduardo@esilva.net
 * ⚡  Fun fact: I have had address in 4 different countries (10+ different home addresses in fact) over the last 20 years
